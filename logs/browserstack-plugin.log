@@ -1,0 +1,47 @@
+16:06:01.127 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+16:06:01.176 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.5, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=Xcsw9p8RgpyzbtgXrSvo, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=rishikhanna_pe6DWF, BROWSERSTACK_FRAMEWORK=java, BUILD_NAME=browserstack build, version=1.0, PROJECT_NAME=Translator, BROWSERSTACK_SOURCE=java:eclipse:v1.0.10]
+16:06:01.206 [Worker-229: Launching mavenrun-741db04e-eebc-41e7-86cf-12ad976b3c67] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:06:40.168 [Worker-226: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+16:06:40.171 [Worker-226: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:06:40.172 [Worker-226: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+16:06:40.177 [Worker-226: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:15:38.413 [Worker-226: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+16:15:38.427 [Worker-226: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:15:38.428 [Worker-226: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+16:15:38.434 [Worker-226: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:16:39.896 [Worker-235: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+16:16:39.901 [Worker-235: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:16:39.902 [Worker-235: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+16:16:39.911 [Worker-235: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:18:18.828 [Worker-232: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+16:18:18.842 [Worker-232: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:18:18.844 [Worker-232: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+16:18:18.849 [Worker-232: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:20:14.112 [Worker-234: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+16:20:14.123 [Worker-234: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:20:14.125 [Worker-234: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+16:20:14.130 [Worker-234: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+17:03:42.943 [Worker-236: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+17:03:42.994 [Worker-236: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+17:03:42.996 [Worker-236: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+17:03:43.012 [Worker-236: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+17:06:48.238 [Worker-241: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+17:06:48.244 [Worker-241: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+17:06:48.245 [Worker-241: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+17:06:48.250 [Worker-241: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+17:11:49.620 [Worker-245: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+17:11:49.633 [Worker-245: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+17:11:49.635 [Worker-245: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+17:11:49.641 [Worker-245: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+17:13:35.717 [Worker-250: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+17:13:35.735 [Worker-250: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+17:13:35.737 [Worker-250: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+17:13:35.744 [Worker-250: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+17:16:19.136 [Worker-232: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+17:16:19.142 [Worker-232: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+17:16:19.143 [Worker-232: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+17:16:19.150 [Worker-232: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+17:20:23.476 [Worker-232: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+17:20:23.482 [Worker-232: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+17:20:23.484 [Worker-232: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+17:20:23.489 [Worker-232: Launching OpinionTests.retrieveTitles] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
