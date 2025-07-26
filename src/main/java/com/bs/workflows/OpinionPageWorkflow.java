@@ -1,6 +1,8 @@
 package com.bs.workflows;
 
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
@@ -40,6 +42,11 @@ public class OpinionPageWorkflow {
 	}
 
 	public void downloadImage() {
+		try {
+			Thread.sleep(5000);
+		} catch (InterruptedException e) {
+		}
+		driver.navigate().refresh();
 		if(GenericUtils.isDisplayed(driver,workflowManager.getOpinionPage(driver).getArticleImage().get(0))) {
 			List<WebElement> images = workflowManager.getOpinionPage(driver).getArticleImage();
 			List<String> imageUrls = new ArrayList<String>();
@@ -49,7 +56,8 @@ public class OpinionPageWorkflow {
 
 			for(int i =0 ; i< imageUrls.size(); i++) {
 				driver.navigate().to(imageUrls.get(i));
-				ScreenshotReader.takeScreenshot(driver, "Image_" + (i+1));
+				String timestamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
+				ScreenshotReader.takeScreenshot(driver, "Image_" + (i+1)+"-"+ timestamp);
 			}
 		}
 		else {
