@@ -24,7 +24,7 @@ public class SeleniumWebDriverManager {
 				driver = new EdgeDriver();
 				break;
 			default:
-				throw new IllegalArgumentException("Browser note supported: " + browserName);
+				throw new IllegalArgumentException("Browser not supported: " + browserName);
 			}
 		}
 		return driver;
